@@ -1,0 +1,11 @@
+bin/
+obj/
+packages/
+*.user
+*.suo
+*.cache
+.vs/
+TestResults/
+*.nupkg
+Thumbs.db
+.DS_Store
